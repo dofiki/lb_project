@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+#logo {
+  font-family: "Volkhov", serif;
+}
+
+#nav-menu {
+  font-family: "Poppins", serif;
+}
