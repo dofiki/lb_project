@@ -1,6 +1,11 @@
 @import "tailwindcss";
 
-#logo {
+#logo,
+#follow,
+#banner_title,
+#review_title,
+#subscribe_title,
+#footer_title {
   font-family: "Volkhov", serif;
 }
 

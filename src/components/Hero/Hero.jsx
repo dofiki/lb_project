@@ -7,7 +7,7 @@ import Button from "../ui/Button";
 
 const Hero = () => {
   return (
-    <div className="h-206.5 flex items-center justify-center ">
+    <div className="h-206.5 flex  items-center justify-center ">
       <div className="w-320.25 flex justify-center gap-8">
         <div className="bg-[#E0E0E0] h-189 w-98 rounded-lg">
           <img src={HeroLeft} className="relative top-40" />

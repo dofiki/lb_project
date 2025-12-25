@@ -10,7 +10,7 @@ const Navbar = () => {
         </div>
         <ul
           id="nav-menu"
-          className="flex gap-5 text-[16px] w-191 h-14 items-center 
+          className="hidden md:flex gap-5 text-[16px] w-191 h-14 items-center 
         justify-between text-[#484848]"
         >
           <li className="hover:text-black cursor-pointer">Home</li>
