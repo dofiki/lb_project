@@ -1,7 +1,7 @@
 import React from "react";
 import Left from "../../assets/subscribe/left.png";
 import Right from "../../assets/subscribe/right.png";
-import Button from "../ui/Button";
+import Button from "../ui/Button/Button";
 
 const Subscribe = () => {
   return (

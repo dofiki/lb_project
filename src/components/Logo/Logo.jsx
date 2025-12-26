@@ -15,7 +15,7 @@ const logos = [
 
 const Logo = () => {
   return (
-    <div className="flex justify-center h-50 items-center p-15">
+    <div className="flex justify-center h-50 items-center p-15 shadow-sm">
       <div className="flex gap-6 w-320.25">
         {logos.map((logo) => (
           <div key={logo.id} className="p-4">

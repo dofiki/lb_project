@@ -1,6 +1,6 @@
 import React from "react";
 import Peaky from "../../assets/img/peaky_blinder.png";
-import Button from "../ui/Button";
+import Button from "../ui/Button/Button";
 const Banner = () => {
   return (
     <div className="bg-[#DADADA] flex ">

@@ -3,7 +3,7 @@ import HeroLeft from "../../assets/img/hero_left.png";
 import HeroMidTop from "../../assets/img/hero_middle_top.png";
 import HeroMidBottom from "../../assets/img/hero_middle_bottom.png";
 import HeroRight from "../../assets/img/hero_right.png";
-import Button from "../ui/Button";
+import Button from "../ui/Button/Button";
 
 const Hero = () => {
   return (

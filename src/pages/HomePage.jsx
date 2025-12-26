@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "../components/Navbar/Navbar";
 import Hero from "../components/Hero/Hero";
 import Logo from "../components/Logo/Logo";
+import Arrival from "../components/Arrival/Arrival";
 import Banner from "../components/Banner/Banner";
 import Feature from "../components/Feature/Feature";
 import Follow from "../components/Follow/Follow";
@@ -15,6 +16,7 @@ const HomePage = () => {
       <Navbar />
       <Hero />
       <Logo />
+      <Arrival />
       <Banner />
       <Feature />
       <Follow />
